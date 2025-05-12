@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ahmed Amin</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmed sandrosy</h1>
+<h3 align="center">A passionate Software Engineer & Business developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scar7things&label=Profile%20views&color=0e75b6&style=flat" alt="scar7things" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scar7things" alt="scar7things" /></a> </p>
 
 
-- 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
+-
 
-- 👨‍💻 All of my projects are available at [https://github.com/scar7things](https://github.com/scar7things)
+- 👨‍💻 All of my projects are available at [https://github.com/sandrosyahmed](https://github.com/sandrosyahmed)
 
-- 📫 How to reach me **scar7things@gmail.com**
+- 📫 How to reach me **sandrosyahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
